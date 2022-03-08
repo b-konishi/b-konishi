@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a researcher on reservoir computing (RC) and synthetic aperture radar interferometry (SAR).
+I'm a researcher on reservoir computing and synthetic aperture radar interferometry.
 
 My profile is at https://b-konishi.github.io.
 
