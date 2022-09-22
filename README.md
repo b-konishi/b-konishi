@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a researcher on reservoir computing and synthetic aperture radar interferometry.
+I'm interested in reservoir computing and synthetic aperture radar (SAR) application.
 
-My profile is at https://b-konishi.github.io.
+My profile is written at https://b-konishi.github.io.
 
 <!--
 **b-konishi/b-konishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
